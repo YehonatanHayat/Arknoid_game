@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.protobufSupport.enabled": true,
+    "java.configuration.runtimes": [
+
+    ],
+
+    "java.project.referencedLibraries": [
+        "./biuoop-1.4.jar"
+    ]
+}
